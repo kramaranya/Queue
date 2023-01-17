@@ -1,0 +1,54 @@
+C:\Users\vladt\Desktop\Lab1\Lab1\bin\Debug\net6.0\Lab1.exe
+C:\Users\vladt\Desktop\Lab1\Lab1\bin\Debug\net6.0\Lab1.deps.json
+C:\Users\vladt\Desktop\Lab1\Lab1\bin\Debug\net6.0\Lab1.runtimeconfig.json
+C:\Users\vladt\Desktop\Lab1\Lab1\bin\Debug\net6.0\Lab1.dll
+C:\Users\vladt\Desktop\Lab1\Lab1\bin\Debug\net6.0\Lab1.pdb
+C:\Users\vladt\Desktop\Lab1\Lab1\bin\Debug\net6.0\MyQueue.dll
+C:\Users\vladt\Desktop\Lab1\Lab1\bin\Debug\net6.0\MyQueue.pdb
+C:\Users\vladt\Desktop\Lab1\Lab1\obj\Debug\net6.0\Lab1.csproj.AssemblyReference.cache
+C:\Users\vladt\Desktop\Lab1\Lab1\obj\Debug\net6.0\Lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vladt\Desktop\Lab1\Lab1\obj\Debug\net6.0\Lab1.AssemblyInfoInputs.cache
+C:\Users\vladt\Desktop\Lab1\Lab1\obj\Debug\net6.0\Lab1.AssemblyInfo.cs
+C:\Users\vladt\Desktop\Lab1\Lab1\obj\Debug\net6.0\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\vladt\Desktop\Lab1\Lab1\obj\Debug\net6.0\Lab1.csproj.CopyComplete
+C:\Users\vladt\Desktop\Lab1\Lab1\obj\Debug\net6.0\Lab1.dll
+C:\Users\vladt\Desktop\Lab1\Lab1\obj\Debug\net6.0\refint\Lab1.dll
+C:\Users\vladt\Desktop\Lab1\Lab1\obj\Debug\net6.0\Lab1.pdb
+C:\Users\vladt\Desktop\Lab1\Lab1\obj\Debug\net6.0\Lab1.genruntimeconfig.cache
+C:\Users\vladt\Desktop\Lab1\Lab1\obj\Debug\net6.0\ref\Lab1.dll
+C:\Users\krama\5 семестр\microsoft.net\lab1\Lab1\Lab1\bin\Debug\net6.0\Lab1.exe
+C:\Users\krama\5 семестр\microsoft.net\lab1\Lab1\Lab1\bin\Debug\net6.0\Lab1.deps.json
+C:\Users\krama\5 семестр\microsoft.net\lab1\Lab1\Lab1\bin\Debug\net6.0\Lab1.runtimeconfig.json
+C:\Users\krama\5 семестр\microsoft.net\lab1\Lab1\Lab1\bin\Debug\net6.0\Lab1.dll
+C:\Users\krama\5 семестр\microsoft.net\lab1\Lab1\Lab1\bin\Debug\net6.0\Lab1.pdb
+C:\Users\krama\5 семестр\microsoft.net\lab1\Lab1\Lab1\bin\Debug\net6.0\MyQueue.dll
+C:\Users\krama\5 семестр\microsoft.net\lab1\Lab1\Lab1\bin\Debug\net6.0\MyQueue.pdb
+C:\Users\krama\5 семестр\microsoft.net\lab1\Lab1\Lab1\obj\Debug\net6.0\Lab1.csproj.AssemblyReference.cache
+C:\Users\krama\5 семестр\microsoft.net\lab1\Lab1\Lab1\obj\Debug\net6.0\Lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krama\5 семестр\microsoft.net\lab1\Lab1\Lab1\obj\Debug\net6.0\Lab1.AssemblyInfoInputs.cache
+C:\Users\krama\5 семестр\microsoft.net\lab1\Lab1\Lab1\obj\Debug\net6.0\Lab1.AssemblyInfo.cs
+C:\Users\krama\5 семестр\microsoft.net\lab1\Lab1\Lab1\obj\Debug\net6.0\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\krama\5 семестр\microsoft.net\lab1\Lab1\Lab1\obj\Debug\net6.0\Lab1.csproj.CopyComplete
+C:\Users\krama\5 семестр\microsoft.net\lab1\Lab1\Lab1\obj\Debug\net6.0\Lab1.dll
+C:\Users\krama\5 семестр\microsoft.net\lab1\Lab1\Lab1\obj\Debug\net6.0\refint\Lab1.dll
+C:\Users\krama\5 семестр\microsoft.net\lab1\Lab1\Lab1\obj\Debug\net6.0\Lab1.pdb
+C:\Users\krama\5 семестр\microsoft.net\lab1\Lab1\Lab1\obj\Debug\net6.0\Lab1.genruntimeconfig.cache
+C:\Users\krama\5 семестр\microsoft.net\lab1\Lab1\Lab1\obj\Debug\net6.0\ref\Lab1.dll
+C:\Users\krama\5semester\microsoft.net\lab1\Lab1\Lab1\bin\Debug\net6.0\Lab1.exe
+C:\Users\krama\5semester\microsoft.net\lab1\Lab1\Lab1\bin\Debug\net6.0\Lab1.deps.json
+C:\Users\krama\5semester\microsoft.net\lab1\Lab1\Lab1\bin\Debug\net6.0\Lab1.runtimeconfig.json
+C:\Users\krama\5semester\microsoft.net\lab1\Lab1\Lab1\bin\Debug\net6.0\Lab1.dll
+C:\Users\krama\5semester\microsoft.net\lab1\Lab1\Lab1\bin\Debug\net6.0\Lab1.pdb
+C:\Users\krama\5semester\microsoft.net\lab1\Lab1\Lab1\bin\Debug\net6.0\MyQueue.dll
+C:\Users\krama\5semester\microsoft.net\lab1\Lab1\Lab1\bin\Debug\net6.0\MyQueue.pdb
+C:\Users\krama\5semester\microsoft.net\lab1\Lab1\Lab1\obj\Debug\net6.0\Lab1.csproj.AssemblyReference.cache
+C:\Users\krama\5semester\microsoft.net\lab1\Lab1\Lab1\obj\Debug\net6.0\Lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krama\5semester\microsoft.net\lab1\Lab1\Lab1\obj\Debug\net6.0\Lab1.AssemblyInfoInputs.cache
+C:\Users\krama\5semester\microsoft.net\lab1\Lab1\Lab1\obj\Debug\net6.0\Lab1.AssemblyInfo.cs
+C:\Users\krama\5semester\microsoft.net\lab1\Lab1\Lab1\obj\Debug\net6.0\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\krama\5semester\microsoft.net\lab1\Lab1\Lab1\obj\Debug\net6.0\Lab1.csproj.CopyComplete
+C:\Users\krama\5semester\microsoft.net\lab1\Lab1\Lab1\obj\Debug\net6.0\Lab1.dll
+C:\Users\krama\5semester\microsoft.net\lab1\Lab1\Lab1\obj\Debug\net6.0\refint\Lab1.dll
+C:\Users\krama\5semester\microsoft.net\lab1\Lab1\Lab1\obj\Debug\net6.0\Lab1.pdb
+C:\Users\krama\5semester\microsoft.net\lab1\Lab1\Lab1\obj\Debug\net6.0\Lab1.genruntimeconfig.cache
+C:\Users\krama\5semester\microsoft.net\lab1\Lab1\Lab1\obj\Debug\net6.0\ref\Lab1.dll
